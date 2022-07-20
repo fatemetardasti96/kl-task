@@ -23,3 +23,6 @@ run the main program:
 
 `python reached_date/__init__.py`
 
+## Result
+
+![image](https://user-images.githubusercontent.com/39215420/179910220-3422c3a7-0625-4184-883c-2251ae7e47a4.png)
