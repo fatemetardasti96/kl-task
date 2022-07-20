@@ -1,11 +1,11 @@
 # kl-task
 
-This is the prescreening task provided by KL Healthcare Solutions GmbH. 
+This is my solution to the prescreening task provided by KL Healthcare Solutions GmbH. 
 
 tested with python3.7
 
 ## How to run
-create aand ativate a virtual environment
+create and activate a virtual environment
 
 `python3.7 -m venv env`
 
