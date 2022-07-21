@@ -13,7 +13,7 @@ create and activate a virtual environment
 
 install the requirements:
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 run unit tests:
 
